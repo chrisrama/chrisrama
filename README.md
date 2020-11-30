@@ -7,7 +7,7 @@ Welcome, here you will learn about me and what I like doing.
 
 I enjoy working so hard in everything I do:smile: people describe me as a hard-working person who never stops in what I am going to do. one thing I believe is that if something has never been done that good, but that doesn't mean I have to follow what others thought of that thing to never hard been done. I am fascinated about the world around us and how thee is everyday change, I want to be part of this change in teaching others to be the change they can be.
 I am currently a member at [the new york academy of sciences](https://www.nyas.org/about/our-mission/) as a member of [the junior academy](https://joinlaunchpad.com/#/profile/9670)
-I also enjoy working on cultural programs so to know how to work better with people. *the new york academy of sciences* is one of the great places to do so. I also like doing researches about we should one day be living. I am also a member of **the space club**
+I also enjoy working on cultural programs so to know how to work better with people. *the new york academy of sciences* is one of the great places to do so. I also like doing researches about we should one day be living. 
 
 School: [cape academy of mathematics, science & technology](https://www.camst.co.za/)
 
