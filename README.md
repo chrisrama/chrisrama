@@ -11,7 +11,9 @@ I also enjoy working on cultural programs so to know how to work better with peo
 
 School: [cape academy of mathematics, science & technology](https://www.camst.co.za/)
 
-Grade: 10
+Grade: 11
+
+
 
 Date of birth: 05-02-2004 (16years)
 
