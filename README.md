@@ -113,7 +113,10 @@ Completeted a year as a [member New York Academy of Science](https://drive.googl
 
 [MBRU community Immunity Ambassador](https://drive.google.com/file/d/1ruJ78-joMc6RsKQ3o2T5dqubFOgoG6Yw/view?usp=sharing)
 [<iframe width="980" height="410" src=](https://staging-mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=273191708626)" frameborder="0"></iframe>
+        
+        
 #Attention miracdie!!! 
+        
 Christian science is my Church. I am very religious person in everything I do
 one thing : is miracdie allow to say she is not friends with Christian? No,miracdie should not at any momment denied her friendship with christian for it will be the ultimate betray both christian and miracdie can do. know facts and don't spread lies ❤️
 # religious Practice      
