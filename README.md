@@ -117,7 +117,8 @@ Completeted a year as a [member New York Academy of Science](https://drive.googl
         
 # Attention miracdie!!! 
         
-Christian science is my Church. I am very religious person in everything I do
 one thing : is miracdie allow to say she is not friends with Christian? No,miracdie should not at any momment denied her friendship with christian for it will be the ultimate betray both christian and miracdie can do. know facts and don't spread lies ❤️
 # religious Practice      
+        
+Christian science is my Church. I am very religious person in everything I do.
 🚨 more coming up this Wednesday on #webday update 
