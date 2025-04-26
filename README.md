@@ -23,7 +23,7 @@ Soft Skills: Teamwork, Leadership, Problem-Solving, Time Management
 Interests: Finance, Economics, Robotics, Autonomous Vehicles, Sustainability, Entrepreneurship, STEM
 
 
-#🌍 Languages
+🌍 #Languages
 
 English (Fluent)
 French (Fluent)
@@ -31,7 +31,7 @@ Swahili (Fluent)
 Portuguese (Beginner)
 
 
-#⚽ Hobbies
+⚽ #Hobbies
 
 Watching science and tech shows
 Reading books on technology and finance
@@ -42,7 +42,7 @@ Playing badminton
 Coding
 
 
-#💼 Projects
+💼 #Projects
 
 
 
@@ -64,7 +64,7 @@ Self-Sustaining Colony on the Moon
 
 
 
-🏆 Accomplishments & Awards
+🏆 #Accomplishments & Awards
 
 Principia College:  
 
@@ -93,10 +93,9 @@ Semifinalist, BP Global Scholarship
 
 📬 Contact Me
 
-LinkedIn  
-Facebook  
+LinkedIn: here[https://www.linkedin.com/in/christian-r-aa3887183/]
 Email: Christian.Ramazani@principia.edu
 
 
-Last updated: [Current Date]
+Last updated: [April 2025]
 
