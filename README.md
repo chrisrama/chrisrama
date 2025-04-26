@@ -1,123 +1,102 @@
-# Failure is an option here. if things are not falling then you are not innovating.- Elon Musk
-![chris](IMG_20200122_073910_193.jpg)
-# Hello there
-Welcome, here you will learn about me and what I like doing.
+Christian Ramazani
 
-# About Me
+👋 Hello There!
+Welcome! Here, you'll learn about me, my academic journey, and the projects I'm passionate about.
 
-I enjoy working so hard in everything I do:smile: people describe me as a hard-working person who never stops in what I am going to do. one thing I believe is that if something has never been done that good, but that doesn't mean I have to follow what others thought of that thing to never hard been done. I am fascinated about the world around us and how thee is everyday change, I want to be part of this change in teaching others to be the change they can be.
-I am currently a member at [the new york academy of sciences](https://www.nyas.org/about/our-mission/) as a member of [the junior academy](https://joinlaunchpad.com/#/profile/9670)
-I also enjoy working on cultural programs so to know how to work better with people. *the new york academy of sciences* is one of the great places to do so. I also like doing researches about we should one day be living. 
+📖 About Me
+I am a hardworking and passionate individual with a deep interest in solving problems and creating impactful solutions. Currently, I am a sophomore at Principia College, pursuing dual degrees in Computer Science and Economics, with a minor in Mathematics. My academic focus lies at the intersection of technology and finance, where I aim to leverage data-driven insights to drive innovation and efficiency.
+I am an active member of the Principia Investment Club, where I analyze technology companies and private equity investments under the guidance of Leander Linsler. I am also involved in the Principia Solar Car project, collaborating with the engineering department to enhance my practical skills in technology and teamwork.
+My ultimate goal is to establish a technology company that bridges my interests in computer science, economics, and innovation. I am always eager to learn, collaborate, and contribute to projects that make a difference.
 
-School: [cape academy of mathematics, science & technology](https://www.camst.co.za/)
+🎓 Education
 
-Grade: 11
+Principia College, Elsah, ILBachelor of Science in Computer Science & Bachelor of Arts in Economics, Minor in MathematicsExpected Graduation: May 2028Relevant Coursework: Data Structures, Business Analytics, Microeconomics, CalculusCurrent GPA: 3.9
 
-
-
-Date of birth: 05-02-2004 (16years)
-
-Live: South Africa
-
-contact details
--
-[facebook](https://www.facebook.com/chris.rama.798)
+Cape Academy of Maths, Science and Technology, Cape Town, South AfricaHigh School Diploma, December 2022Class Valedictorian
 
 
-[linkedIn](https://www.lInkedin.com/in/christian-ramazani-aa3887183)
 
-**Skills and Interests**
+🛠 Skills and Interests
 
-1) Aerospace 
+Technical Skills: Python, Data Analysis, Microsoft Excel, Google Sheets, Google Slides
+Soft Skills: Teamwork, Leadership, Problem-Solving, Time Management
+Interests: Finance, Economics, Robotics, Autonomous Vehicles, Sustainability, Entrepreneurship, STEM
 
-2) Astronomy
 
-3) Computer science
+#🌍 Languages
 
-4) Education
+English (Fluent)
+French (Fluent)
+Swahili (Fluent)
+Portuguese (Beginner)
 
-5) Informatics
 
-6) Sustainability Technology
+#⚽ Hobbies
 
-7) Internet of Things
-
-8) 4th industrial revolution,
-
-9) Artificial intelligence
-
-10) Entrepreneurship
-
-11) STEM
-
-# Languages
-English 
-
-French
-
-Swahili
-
-# HOBBIES
-
-Likes watching science and tech shows
-
-Reading Books
-
-Building and Designing
-
+Watching science and tech shows
+Reading books on technology and finance
+Building and designing projects
 Playing soccer
-
 Riding skateboard
-
-Playing batminton
-
+Playing badminton
 Coding
 
-# Project 
 
-|    school                                 |  Outside project                           |
-| ----------------------------------------- |  ----------------------------------------- |
-| [Smart city made of cardboard](https://drive.google.com/file/d/1ynKtql6ab7-lJciYt3kYAnlRUjpfOkqP/view?usp=sharing)         |  arduino   [ 1](https://drive.google.com/file/d/1uNKUTdUuBgmzrF0Cgae2b_qCfhbyqY_U/view?usp=sharing)                               |
-| [Hydraulic arm ](https://drive.google.com/file/d/1xrvltv6EerLTEQkAIlRiejifm5MjF9-v/view?usp=sharing)made of [cardboad](https://drive.google.com/file/d/1xyCF6pf-sk_eK4LVLAAhY40H1fC5u9vT/view?usp=sharing)        |  [BMI app]()                               |
-| [nothing much yet]()                      |  [Iot smart home](https://docs.google.com/document/d/1aiE5mcFn9a48IBZ-sIUouPpg-2NthqTWoqIAM4UnPg8/edit?usp=sharing)                       |
-| [Translating](https://docs.google.com/document/d/1d4usUGK55MC-fcPIZZqBeO_-SGAqTneN46NVZoyAqH4/edit?usp=sharing) [app]()                      |  [self-sustaining colony on the moon](https://drive.google.com/file/d/14YY6RQEwbb0PqExKxY1vgJjOk2gS3oaN/view?usp=sharing) |
-| [nothing yet]()                      |  [intelligent Home and Health](https://drive.google.com/file/d/1EBKUjKYrPvsE17NhPt9R4A2B-yhBjraK/view?usp=sharing)          |
-| [nothing yet]()                      |   [cybersecurity in the age of Iot]()       |
-        
+#💼 Projects
 
 
-Accomplishment & Award
--
-completed Level 2 English Language Course with [distinction](https://drive.google.com/file/d/1u00crgL7JOqDJQt-momrkaRH3oXKZkXt/view?usp=sharing) at scalabrini centre of cape town.
 
-[First position](https://drive.google.com/file/d/1yBhKEyY_kStKL5W8FruV2V4bOaXZaYOj/view?usp=sharing) in Grade 7 Region 2 of [Metro Education District Mathematics Competition for primary schools](https://drive.google.com/file/d/1u2QTxLGrToQQMDF8mA3h34Fo-FViKDFS/view?usp=sharing).
+Academic Projects
+Personal Projects
 
-Serve as [a Prefect at school](https://drive.google.com/file/d/1yZM7YOixloWPnddmL5Nc4adXvE9blyY7/view?usp=sharing).
 
-[Top Achiever in Mathematics](https://drive.google.com/file/d/1te-EMaav_ioWbMmBEbMVkzKprV_6vy5E/view?usp=sharing )of the grade at school.
 
-Pricincipal's [Award](https://drive.google.com/file/d/1y679CaVqOBjcXzEkY8Wz5cT6tSB0msdD/view?usp=sharing), for an [Examplary  and Outsanding Performance](https://drive.google.com/file/d/1yZM7YOixloWPnddmL5Nc4adXvE9blyY7/view?usp=sharing)
+Tesla Stock Analysis Presentation (Principia Investment Club)
+Smart City Model
 
-[Highest](https://drive.google.com/file/d/1ygX4WHXnciN_jdNp4CqzpCrJezJrY173/view?usp=sharing) Achiever in [the Grade](https://drive.google.com/file/d/1yaxAWeUrgKzltLI9AqPjS0WNB9q_uRk-/view?usp=sharing) (8)
 
-Highest Achiever in [the grade]() (9)
+Hydraulic Arm Project
+IoT Smart Home
 
-Completed course on [App  for Mobile devices](https://drive.google.com/file/d/1rEYyAzltXd9uGzu_rs5KCuyxMNwCzvB9/view?usp=sharing) using APPInventor
 
-completed Course on [Introduction to the internet of things](https://drive.google.com/file/d/1rFIFxg7mcI_N0PDdEs5T1EOrp6zOgs-s/view?usp=sharing)
+Business Analytics Course Project
+Self-Sustaining Colony on the Moon
 
-Semifinalist on [BP global scholarship](https://afs.org/programs/stem-academy/)
 
-Completeted a year as a [member New York Academy of Science](https://drive.google.com/file/d/1JAuVi-3-neN5liIvpOIsZF82-K1rhR8J/view?usp=sharing)
 
-[MBRU community Immunity Ambassador](https://drive.google.com/file/d/1ruJ78-joMc6RsKQ3o2T5dqubFOgoG6Yw/view?usp=sharing)
-[<iframe width="980" height="410" src=](https://staging-mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=273191708626)" frameborder="0"></iframe>
-        
-        
-# Attention miracdie!!! 
-        
-one thing : is miracdie allow to say she is not friends with Christian? No,miracdie should not at any momment denied her friendship with christian for it will be the ultimate betray both christian and miracdie can do. know facts and don't spread lies ❤️
-# religious Practice      
-        
-Christian science is my Church. I am very religious person in everything I do.
-🚨 more coming up this Wednesday on #webday update 
+🏆 Accomplishments & Awards
+
+Principia College:  
+
+Maintained a 3.9 GPA while working 15 hours per week  
+Active member of the Principia Investment Club  
+Participant in the Principia Solar Car project
+
+
+High School Achievements:  
+
+Class Valedictorian (Grade 12)  
+DUX Award (Grade 12)  
+Top Achiever (1st in Grade 12, 3rd in Grade 11)  
+Principal's Award for Exemplary and Outstanding Performance
+
+
+Other Recognitions:  
+
+Young Member, The Junior Academy (The New York Academy of Sciences)  
+Allan Gray Entrepreneurship Challenge (2021)  
+MBRU Community Immunity Ambassador  
+Semifinalist, BP Global Scholarship
+
+
+
+
+📬 Contact Me
+
+LinkedIn  
+Facebook  
+Email: Christian.Ramazani@principia.edu
+
+
+Last updated: [Current Date]
+
